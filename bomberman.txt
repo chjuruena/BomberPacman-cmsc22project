@@ -1,0 +1,15 @@
+This game is for two players.
+
+The game begins with the two bombers (Pacman and Mayweather) at random position in the map.
+
+The map is riddled with walls which the bombers can destroy so they can go near one another in order to blast each other to smitheerins. Each bomber has 3 lives. After getting blown up, the bomber respawns at a random position in the map.
+
+The first bomber can move around using WASD keys corresponding to (up, left, down, right) movement. He can drop a bomb at his current position by pressing C key.
+
+The second bomber can move around using Up, Left, Down, Right arrow keys corresponding to (up, left, down, right) movement. He can drop a bomb at his current position by pressing M key.
+
+Bombs, like walls, are impassable terrains. The blast of a bomb goes 4 unit spaces above, below, to the left, and to the right.
+
+The game ends when one of them uses up all his lives or the time (3 minutes) expires. The winner who is alive or with the most lives is the winner of the match.
+
+If both bombers are alive and with the same number of lives, Mayweather wins.
